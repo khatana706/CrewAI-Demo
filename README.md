@@ -13,7 +13,7 @@ A powerful content generation system built with CrewAI that combines research, a
 ## 📋 Prerequisites
 
 - Python 3.9+
-- OpenAI API Key
+- GROQ API Key
 - WolframAlpha API Key
 
 ## 🛠️ Installation
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Create a `.env` file and add your API keys:
 
 ```env
-OPENAI_API_KEY=your_openai_api_key
+GROQ_API_KEY=your_openai_api_key
 WOLFRAMALPHA_API_KEY=your_wolframalpha_api_key
 ```
 
