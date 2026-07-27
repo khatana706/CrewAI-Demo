@@ -29,7 +29,7 @@ cd CrewAI-Demo
 
 ```bash
 conda create -n crewai python=3.12 -y
-conda activate crewai
+conda activate venv/
 ```
 
 ### Install Dependencies
